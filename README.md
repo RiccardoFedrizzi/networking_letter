@@ -31,8 +31,16 @@ To run the experiments please refer to the following files which contains the in
 - Test_scen1.py
 - Test_scen2.py
 
+## Reference Paper
 
-### Contact
+This work is described in details in the following paper:
+
+Riccardo Fedrizzi, Cristina Emilia Costa, and Fabrizio Granelli, **"A Framework to define a Measurement-Based
+Model of MEC Nodes in the 5G System"**, IEEE Networking Letters, 2023, in press
+
+If you refer to our work or use it in your research activities, please refer to this paper.
+
+## Contact
 
 Author and main maintainer:
 - Riccardo Fedrizzi - rfedrizzi@fbk.eu
