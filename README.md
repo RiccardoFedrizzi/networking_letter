@@ -1,6 +1,6 @@
-## Code developed for the paper submitted to IEEE Networking Letters
+## Code developed for the paper published in IEEE Networking Letters
 
-We provide a way to emulate a MEC-enabled 5G network deployment in ComNetsEmu.
+We provide a way to emulate a MEC-enabled 5G network deployment in ComNetsEmu (see reference paper below).
 
 Tested Versions:
 - Comnetsemu: v0.3.0 (Installed following either "Option 1" or "Option 3" from [here](https://git.comnets.net/public-repo/comnetsemu) )
