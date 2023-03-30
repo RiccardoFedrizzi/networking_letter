@@ -40,6 +40,8 @@ Model of MEC Nodes in the 5G System"**, IEEE Networking Letters, 2023, in press
 
 If you refer to our work or use it in your research activities, please refer to this paper.
 
+Here is the Early Access [link](https://ieeexplore.ieee.org/document/10086604).
+
 ## Contact
 
 Author and main maintainer:
